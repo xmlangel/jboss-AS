@@ -1,1 +1,1 @@
-docker exec -i -t jboss /bin/bash
+docker exec -i -t jboss-as /bin/bash
