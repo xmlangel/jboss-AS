@@ -1,1 +1,1 @@
-# jboss-AS(Wildfly)
+# jboss-as(Wildfly)
